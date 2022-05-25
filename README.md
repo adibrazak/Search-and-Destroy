@@ -11,7 +11,7 @@ Robot was programmed as follows:
 4. Then, it will rotate and find object again.
 5. EV3 will move forward when detecting certain object that is below the range threshold. (In this case, below 40cm)
 6. Using light sensor, EV3 can read the percentage of reflected light.
-7. EV3 will stop moving forward (psuh) when certain reflected light threshold is detected. (In this case, below 15%)
+7. EV3 will stop moving forward (pushing) when certain reflected light threshold is detected. (In this case, below 15%)
 
 The program is written in C/C++ using Eclipse with c4ev3 software package. Link for references on c4ev3 https://c4ev3.github.io/
 
